@@ -1,5 +1,5 @@
 # StayAtHome
-HackDuke2020 Project, Forest inspired app that promotes staying at home by growing succulents when you're staying inside.
+HackDuke2020 Project: Forest inspired app that promotes staying at home by growing succulents when you're staying inside.
 
 Team members: Cynthia Rios and Quentin Siredzki 
 
